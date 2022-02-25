@@ -39,7 +39,7 @@ document.addEventListener('keypress', function (e) {
 			else if (!document.querySelectorAll(".lms-activity-lst .lms-margin-top-26")[i].innerText.includes("/")) {
 			  document.querySelectorAll(".lms-activity-lst .lms-margin-top-26")[i].style.backgroundColor = '#FFB3B2'
 		  }
-		}
+		 }
 	};
 });
 })();
